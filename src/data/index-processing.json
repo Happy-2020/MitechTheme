@@ -1,0 +1,64 @@
+[
+    {
+        "id": "processing-hero-content",
+        "title": "Virtual technology in a <span>Refined IT System</span>",
+        "subtitle": "IT Software and design",
+        "text": "Set the trends for desktop & server virtualization technology",
+        "link": "/index-processing",
+        "video_link": "https://www.youtube.com/watch?v=vqZuSUtczbU",
+        "bg_image": "./images/hero/slider-processing-slide-01-bg.jpg",
+        "image": "./images/hero/slider-processing-slide-01-image-01.png"
+    },
+    {
+        "id": "processing-about-content",
+        "title": "Share the joy of achieving <span>glorious moments</span> & climbed up the top.",
+        "subtitle": "OUR COMPANY",
+        "video_link": "https://www.youtube.com/watch?v=vqZuSUtczbU",
+        "faq": [
+            {
+                "id": "about-faq-1",
+                "title": "How can we help your business?",
+                "content": "Through the collaboration with customers in discussing needs and demand, we're able to attain mutual understanding, gain customer trust to offer appropriate advice, and bring about suggestions on suitable technology to transform your business. "
+            },
+            {
+                "id": "about-faq-2",
+                "title": "What are the advantages of Mitech?",
+                "content": "Mitech takes into consideration every little detail to make sure the system run smoothly and responsively. Mitech employs a new technique called Minified Technology for securing customers' database & building up highly confidential firewalls."
+            },
+            {
+                "id": "about-faq-3",
+                "title": "How working process is simplified?",
+                "content": "We reduce redundant complex calculations and lengthy erroneous code texts with simpler ones to ensure Mitech would run seamlessly and the design is reserved in its best form when viewed from a wide range of mobile devices & browsers."
+            }
+        ],
+        "image1": "./images/about-us/home-processing-video-intro-slider-slide-01-image-02.jpg",
+        "image2": "./images/about-us/home-processing-video-intro-slider-slide-01-image-03.jpg",
+        "image3": "./images/about-us/home-processing-video-intro-slider-slide-01-image-04.jpg",
+        "image4": "./images/about-us/home-processing-video-intro-slider-slide-01-image-05.jpg",
+        "main_image": "./images/about-us/video-01-image-01-570x350.jpg"
+    },
+    {
+        "id": "processing-features-content",
+        "title": "For your very specific industry, <br/> we have <span>highly-tailored IT solutions.</span>",
+        "subtitle": "OUR SERVICES"
+    },
+    {
+        "id": "processing-fun-fact-content",
+        "title": "<mark>38</mark> Years’ Experience in IT",
+        "subtitle": "Learn more about our <span>Success Stories</span>"
+    },
+    {
+        "id": "processing-cta-content",
+        "title": "IT Security & Computing",
+        "text": "Challenges are just opportunities in disguise.",
+        "link_text": "Take the challenge!",
+        "link": "/index-processing"
+    },
+    {
+        "id": "processing-service-content",
+        "title": "Preparing for your success, <br/> we provide <span>truly prominent IT solutions.</span>",
+        "subtitle": "OPTIMAL TECHNOLOGY SOLUTIONS",
+        "service_link": "/it-solutions",
+        "contact_link": "/contact-us"
+    }
+]

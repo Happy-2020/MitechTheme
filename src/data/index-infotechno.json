@@ -1,0 +1,67 @@
+[
+    {
+        "id": "infotechno-hero-content",
+        "title": "Facilitate All <br/> Local IT-related Service Providers",
+        "subtitle": "IT Design & Consulting",
+        "shortDesc": "Highly Tailored IT Design, Management & Support Services.",
+        "path": "/",
+        "image1": "./images/hero/home-infotechno-main-slider-slide-01-image-01.png",
+        "image2": "./images/hero/home-infotechno-main-slider-slide-01-image-02.png"
+    },
+    {
+        "id": "infotechno-featured-content",
+        "title": "For your very specific industry, <br/> we have <span>highly-tailored IT solutions.</span>",
+        "subtitle": "FEATURED SERVICES"
+    },
+    {
+        "id": "infotechno-about-content",
+        "title": "We’ve been thriving in <span>38 years</span>",
+        "subtitle": "OUR COMPANY",
+        "desc": "Mitech specializes in technological and IT-related services such as product engineering, warranty management, building cloud, infrastructure, network, etc. We put a strong focus on the needs of your business to figure out solutions that best fits your demand and nail it.",
+        "path": "/about-us",
+        "features": [
+            {
+                "text": "How we can help your business?",
+                "path": "/about-us"
+            },
+            {
+                "text": "Why become our partner?",
+                "path": "/about-us"
+            },
+            {
+                "text": "What are the best of Mitech?",
+                "path": "/about-us"
+            }
+        ]
+    },
+    {
+        "id": "infotechno-services-content",
+        "title": "How we claim to <span>excel?</span>",
+        "subtitle": "HIRE US, WHY NOT?"
+    },
+    {
+        "id": "infotechno-video-content",
+        "bgImage": "./images/bg/home-infotechno-video-intro-bg.jpg",
+        "title": "Share the joy of achieving glorious moments <br/> & climbing up the top.",
+        "video_link": "https://www.youtube.com/watch?v=9No-FiEInLA"
+    },
+    {
+        "id": "infotechno-case-study-content",
+        "title": "Proud projects that <span>make us stand out</span>",
+        "subtitle": "CASE STUDIES",
+        "bottom_text": "Challenges are just opportunities in disguise.",
+        "bottom_link_text": "Take the challenge!",
+        "bottom_link": "/case-studies",
+        "bgImage": "./images/bg/case-study-section-bg.png"
+    },
+    {
+        "id": "infotechno-blog-content",
+        "title": "Interesting articles <span>updated daily</span>",
+        "subtitle": "BLOGS & NEWS"
+    },
+    {
+        "id": "infotechno-contact-content",
+        "title": "Obtaining further information by <span>make a contact</span> with our experienced IT staffs.",
+        "desc": "We’re available for 8 hours a day! <br/> Contact to require a detailed analysis and assessment of your plan"
+    }
+]

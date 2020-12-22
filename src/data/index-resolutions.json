@@ -1,0 +1,41 @@
+[
+    {
+        "id": "resolutions-hero-content",
+        "title": "Your Business",
+        "subtitle": "IT Services Designed For",
+        "text": "Highly Tailored IT Design, Management & Support Services.",
+        "bg_image": "./images/bg/home-resolutions-hero-bg-image.jpg",
+        "link": "/contact-us",
+        "video_link": "https://www.youtube.com/watch?v=9No-FiEInLA"
+    },
+    {
+        "id": "resolutions-services-content",
+        "title": "For your very specific industry, <br/> we have <span>highly-tailored IT solutions.</span>",
+        "subtitle": "INDUSTRIES WE SERVE"
+    },
+    {
+        "id": "resolutions-new-content",
+        "list": [
+            {
+                "icon": "./images/icons/icon-07-60x60.png",
+                "title": "Quality Assurance System",
+                "desc": "Our service offerings enhance customer experience throughout secure & highly functional end-to-end warranty management."
+            },
+            {
+                "icon": "./images/icons/icon-08-60x60.png",
+                "title": "Accurate Testing Processes",
+                "desc": "Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
+            },
+            {
+                "icon": "./images/icons/icon-09-60x60.png",
+                "title": "Smart API Generation",
+                "desc": "Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
+            },
+            {
+                "icon": "./images/icons/icon-10-60x60.png",
+                "title": "Infrastructure Integration Technology",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            }
+        ] 
+    }
+]

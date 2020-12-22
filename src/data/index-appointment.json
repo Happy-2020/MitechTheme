@@ -1,0 +1,78 @@
+[
+    {
+        "id": "appointment-hero-content",
+        "bgImage": "./images/hero/home-appointment-hero-bg-image.jpg", 
+        "subtitle": "Secure & IT Services",
+        "title": "Excellent IT services for your success",
+        "video": "https://www.youtube.com/watch?v=9No-FiEInLA",
+        "buttonText": "How we work"
+    },
+    {
+        "id": "appointment-services",
+        "title": "Services We Deliver <br/> we provide <span>truly prominent IT solutions.</span>",
+        "subtitle": "INDUSTRIES WE SERVE",
+        "path": "/contact-us"
+    }, 
+    {
+        "id": "appointment-about-us",
+        "title": "We’ve been thriving in <span>38 years</span>",
+        "subtitle": "DISCOVER OUR COMPANY",
+        "tab_header": [
+            {
+                "id": "our-mission-tab",
+                "title": "Our Mission"
+            }, 
+            {
+                "id": "our-services-tab",
+                "title": "Our services"
+            }, 
+            {
+                "id": "teachonology-partners-tab",
+                "title": "Technology Partners"
+            },
+            {
+                "id": "our-awards-tab",
+                "title": "Our Awards"
+            }
+        ],
+        "about_content": {
+            "text": "We’re available for 8 hours a day! <br/> Contact to require a detailed analysis and assessment of your plan.",
+            "list": [
+                "IT Consultancy",
+                "IT Design",
+                "Desktop Computing",
+                "Software Engineering"
+            ],
+            "link": "/about-us",
+            "video_link": "https://www.youtube.com/watch?v=9No-FiEInLA",
+            "video_preview": "./images/about-us/video-01-image-01-570x350.jpg"
+        }
+    },
+    {
+        "id": "appointment-team-section",
+        "title": "Our <span>experience<span> experts",
+        "desc": "Mitech specializes in technological and IT-related services such as product engineering, warranty management, building cloud, infrastructure, network, etc.",
+        "join_link": "/",
+        "team_link": "/leadership"
+    },
+    {
+        "id": "appointment-case-section",
+        "title": "Proud projects <span>make us excel</span>",
+        "subtitle": "CASE STUDIES",
+        "bottom_text": "Challenges are just opportunities in disguise.",
+        "bottom_link_text": "Take the challenge!",
+        "bottom_link": "/case-studies",
+        "bgImage": "./images/bg/case-study-section-bg.png"
+    },
+    {
+        "id": "appointment-contact-section",
+        "title": "Need a hand?",
+        "subtitle": "Reach out to the world’s most reliable IT services.",
+        "bgImage": "./images/bg/contact-section-bg.png",
+        "contact_info": {
+            "title": "REACH OUT NOW!",
+            "phone": "(+00) 123 567990",
+            "text": "Start the collaboration with us while figuring out the best solution based on your needs."
+        }
+    }
+]

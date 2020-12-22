@@ -1,0 +1,225 @@
+[
+    {
+        "text": "Home",
+        "link": "/",
+        "isSubmenu": true,
+        "submenu": [
+            {
+                "text": "Infotechno",
+                "link": "/index-infotechno"
+            },
+            {
+                "text": "Appointment",
+                "link": "/index-appointment"
+            },
+            {
+                "text": "Processing",
+                "link": "/index-processing"
+            },
+            {
+                "text": "Services",
+                "link": "/index-services"
+            },
+            {
+                "text": "Resolutions",
+                "link": "/index-resolutions"
+            },
+            {
+                "text": "Cybersecurity",
+                "link": "/index-cybersecurity"
+            }
+        ]
+    },
+    {
+        "text": "Company",
+        "link": "/about-us",
+        "isSubmenu": true,
+        "submenu": [
+            {
+                "text": "About Us",
+                "link": "/about-us"
+            },
+            {
+                "text": "Contact Us",
+                "link": "/contact-us"
+            },
+            {
+                "text": "Leadership",
+                "link": "/leadership"
+            },
+            {
+                "text": "Why Choose Us",
+                "link": "/why-choose-us"
+            },
+            {
+                "text": "Our History",
+                "link": "/our-history"
+            },
+            {
+                "text": "FAQs",
+                "link": "/faq"
+            },
+            {
+                "text": "Careers",
+                "link": "/careers"
+            },
+            {
+                "text": "Pricing Plans",
+                "link": "/pricing-plan"
+            }
+        ]
+    },
+    {
+        "text": "Services",
+        "link": "/it-services",
+        "isSubmenu": true,
+        "submenu": [
+            {
+                "text": "IT Services",
+                "link": "/it-services"
+            },
+            {
+                "text": "IT Solutions",
+                "link": "/it-solutions"
+            }
+        ]
+    },
+    {
+        "text": "Elements",
+        "link": "/",
+        "megamenu": [
+            {
+                "title": "Element Group 01",
+                "submenu": [
+                    {
+                        "text": "Accordion",
+                        "link": "/elements/accordion"
+                    },
+                    {
+                        "text": "Box Icon",
+                        "link": "/elements/box-icon"
+                    },
+                    {
+                        "text": "Box Image",
+                        "link": "/elements/box-image"
+                    },
+                    {
+                        "text": "Box Large Image",
+                        "link": "/elements/box-large-image"
+                    },
+                    {
+                        "text": "Buttons",
+                        "link": "/elements/button"
+                    },
+                    {
+                        "text": "Call to action",
+                        "link": "/elements/call-to-action"
+                    },
+                    {
+                        "text": "Client Logo",
+                        "link": "/elements/client-logo"
+                    }
+                ]
+            },
+            {
+                "title": "Element Group 02",
+                "submenu": [
+                    {
+                        "text": "Counters",
+                        "link": "/elements/counters"
+                    },
+                    {
+                        "text": "Dividers",
+                        "link": "/elements/dividers"
+                    },
+                    {
+                        "text": "Flexible image slider",
+                        "link": "/elements/flexible-image-slider"
+                    },
+                    {
+                        "text": "Google Map",
+                        "link": "/elements/google-map"
+                    },
+                    {
+                        "text": "Gradation",
+                        "link": "/elements/gradation"
+                    },
+                    {
+                        "text": "Lists",
+                        "link": "/elements/lists"
+                    },
+                    {
+                        "text": "Message box",
+                        "link": "/elements/message-box"
+                    }
+                ]
+            },
+            {
+                "title": "Element Group 03",
+                "submenu": [
+                    
+                    {
+                        "text": "Popup Video",
+                        "link": "/elements/popup-video"
+                    },
+                    {
+                        "text": "Pricing Box",
+                        "link": "/elements/pricing-box"
+                    },
+                    {
+                        "text": "Progress Bar",
+                        "link": "/elements/progress-bar"
+                    },
+                    {
+                        "text": "Progress Circle",
+                        "link": "/elements/progress-circle"
+                    },
+                    {
+                        "text": "Social Networks",
+                        "link": "/elements/social-networks"
+                    },
+                    {
+                        "text": "Tabs",
+                        "link": "/elements/tabs"
+                    },
+                    {
+                        "text": "Team member",
+                        "link": "/elements/team-member"
+                    }
+                ]
+            }, 
+            {
+                "title": "Element Group 04",
+                "submenu": [
+                    {
+                        "text": "Testimonials",
+                        "link": "/elements/testimonials"
+                    },
+                    {
+                        "text": "Timeline",
+                        "link": "/elements/timeline"
+                    },
+                    {
+                        "text": "Typed Text",
+                        "link": "/elements/typed-text"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Case Studies",
+        "link": "/case-studies"
+    },
+    {
+        "text": "Blog",
+        "link": "/blog",
+        "isSubmenu": true,
+        "submenu": [
+            {
+                "text": "Single Blog",
+                "link": "/5-ways-technology-has-improved-business-today"
+            }
+        ]
+    }
+]

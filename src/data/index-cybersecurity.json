@@ -1,0 +1,51 @@
+[
+    {
+        "id": "cybersecurity-hero-content",
+        "title": "Get insights into the <span>mechanism</span> & <span>prospects</span> of cyber security technology",
+        "subtitle": "FIGURE PLANS OUT",
+        "path": "/about-us",
+        "imageOne": "./images/bg/mitech-slider-cybersecurity-global-image.png",
+        "imageTwo": "./images/hero/slider-cybersecurity-slide-01-image-01.png"
+    },
+    {
+        "id": "cybersecurity-about-content",
+        "title": "We run all kinds of IT services that <br/> vow your <span>success</span>",
+        "subtitle": "OUR COMPANY",
+        "heading": "<mark>38</mark> YEARS’ EXPERIENCE IN IT",
+        "subheading": "Learn more about our Success Stories",
+        "desc": "Mitech specializes in technological and IT-related services such as product engineering, warranty management, building cloud, infrastructure, network, etc. We put a strong focus on the needs of your business to figure out solutions that best fits your demand and nail it.",
+        "path": "/about-us"
+    },
+    {
+        "id": "cybersecurity-service-content",
+        "bottom_text": "Challenges are just opportunities in disguise",
+        "bottom_link_text": "Take the challenge!",
+        "path": "/it-services"
+    },
+    {
+        "id": "cybersecurity-feature-content",
+        "title": "Reach out to the world’s most <br/> <span>reliable IT services.</span>",
+        "subtitle": "OPTIMAL TECHNOLOGY SOLUTIONS"
+    },
+    {
+        "id": "cybersecurity-case-content",
+        "title": "Proud projects that <span>make us stand out</span>",
+        "subtitle": "CASE STUDIES"
+    },
+    {
+        "id": "cybersecurity-pricing-content",
+        "title": "1 monthly fee for <span>all IT services.</span>",
+        "subtitle": "PRICING AND PLAN"
+    },
+    {
+        "id": "cybersecurity-blog-content",
+        "title": "Interesting articles <br/> <span>updated daily</span>",
+        "subtitle": "BLOGS & NEWS"
+    },
+    {
+        "id": "cybersecurity-client-content",
+        "title": "Qualified methods <span>at its best</span>",
+        "subtitle": "How IT services change people's life for the better",
+        "download_link": "/"
+    }
+]
